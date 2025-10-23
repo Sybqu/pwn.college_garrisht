@@ -44,7 +44,7 @@ they were stored in hex in binary data section
 Loaded the hex into claude (my goat) got the code , ran it got the flag.
 Honestly a roller Coaster, Actively took the most time i think after "Case Sensitivity"
 
-
+```python
 Code:
 # Flag decoder for the Tame Impala challenge
 
@@ -109,6 +109,7 @@ print(flag_string)
 print("=" * 50)
 print()
 print(f"Length: {len(flag_string)} characters (expected 37)")
+```
 
 ## Output:
 S C:\Users\garri\Downloads> python see.py
